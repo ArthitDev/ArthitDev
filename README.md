@@ -29,6 +29,9 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 </p>
 <p>
 
+## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008)
 # Contact <img src="assets/images/Man Technologist Light Skin Tone.png" width="50">
 
 <p align="left"> <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArthitDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//arthit-lungya-30a29626a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17091089/arthit-lungya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArthitDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -37,6 +40,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ArthitDev"><img src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ArthitDev's GitHub stats" /></a>
-
-<a href="http://www.github.com/ArthitDev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArthitDev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
+</nobr>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ArthitDev&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
