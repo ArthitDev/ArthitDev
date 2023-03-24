@@ -40,7 +40,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 
 <b>My GitHub Stats</b>
 
-<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
+<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=b2336b&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321&langs_count=7" />
 </nobr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ArthitDev&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
