@@ -31,23 +31,25 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 </p>
 <p>
 
+# Education <img src="assets/images/Scroll.png" width="30">
+<img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
+  - **Completing Bachelor of Science Degree in information technology**
+    - March 24, 2023 (Present)
+
 ## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008)
-# Contact <img src="assets/images/Man Technologist Light Skin Tone.png" width="50">
+# Contact <img src="assets/images/Man Technologist Light Skin Tone.png" width="50"> 
+  
 
 <p align="left"> <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArthitDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//arthit-lungya-30a29626a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17091089/arthit-lungya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArthitDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # Badges <img src="assets/images/Bar Chart.png" width="40">
 
-<b>My GitHub Stats</b>
 
-<nobr><img align="left" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=b2336b&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321&langs_count=7" />
+<nobr><img align="center" width="700px" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
+<img align="center" height = "292px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=b2336b&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321&langs_count=7" />
 </nobr>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
+<p align="center"><img align="center" width ="700px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
-# Education <img src="assets/images/Scroll.png" width="30">
-<img src="assets/images/School.png" width="25"> **BRAC University**:
-  - **Completing Bachelor of Science Degree in information technology**
-    - March 24, 2023 (Present)
+
