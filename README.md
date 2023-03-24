@@ -36,7 +36,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
   - **Completing Bachelor of Science Degree in information technology**
     - March 24, 2023 (Present)
 
-## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
+## Disocrd Activity <img src="assets/images/Discord.gif" width="55px" height = "55px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008)
 # Contact <img src="assets/images/Man Technologist Light Skin Tone.png" width="50"> 
