@@ -44,3 +44,8 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&title_color=b2336b&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321&langs_count=7" />
 </nobr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
+
+# Education <img src="assets/images/Scroll.png" width="30">
+<img src="assets/images/School.png" width="25"> **BRAC University**:
+  - **Completing Bachelor of Science Degree in information technology**
+    - March 24, 2023 (Present)
