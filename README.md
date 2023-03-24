@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Jump">
+
 Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
 =====================================================================================================================================
 
