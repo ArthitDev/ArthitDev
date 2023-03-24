@@ -50,4 +50,8 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 <nobr><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
 <p align="center"><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
