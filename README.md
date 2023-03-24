@@ -11,7 +11,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development
 * ⚡  i' m Work at CIT Company (Virtual Office Project for Student Form My University)
-* https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Confused%20Face.png
+* [https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Confused%20Face.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Confused%20Face.png)
 ### Skills
 
 
