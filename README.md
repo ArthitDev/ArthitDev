@@ -51,6 +51,3 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 <p align="center"><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
-
