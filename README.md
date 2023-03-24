@@ -11,7 +11,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development
 * ⚡  i' m Work at CIT Company (Virtual Office Project for Student Form My University)
-# Skills <img src="assets/images/Rocket.png" width="30">
+# Skills <img src="assets/images/Rocket.png" width="50">
 
 
 <p align="left">
