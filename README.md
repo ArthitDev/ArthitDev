@@ -1,4 +1,5 @@
 <!--<img  align = "center" src="https://github.com/ArthitDev/ArthitDev/blob/bbf574964d0519f2c89ab0517f24d815224c2684/assets/images/dino.gif" alt="Dino Jump">-->
+![til](assets/images/dino.gif)
 
 Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
 =====================================================================================================================================
