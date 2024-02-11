@@ -13,7 +13,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
-* 🧠  I'm learning Web Development
+* 🧠  I'm learning Web Development and Programing
 * ⚡  i' m Work at CIT Company (Virtual Office Project for Student Form My University) - (Now Project Closed)
 # Skills <img src="assets/images/Rocket.png" width="40">
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
