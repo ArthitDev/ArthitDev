@@ -9,7 +9,7 @@ Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50">
 I'm IT Student
 --------------
 
-Now I study a Major in information technology at Chiang rai rajabhat university year 3 in Thailand my GitHub Uploads my work from Education and Learning Training or My Project and Now I work at CIT Company.
+Now I study a Major in information technology at Chiang rai rajabhat university year 3 in Thailand my GitHub Uploads my work from Education and Learning Training or My Project.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)
