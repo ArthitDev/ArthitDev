@@ -37,7 +37,7 @@ Now I study a Major in information technology at Chiang rai rajabhat university 
 # Education <img src="assets/images/Scroll.png" width="30">
 <img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
   - **Bachelor of Science in information technology**
-    - 2021  
+    - 2021 (Start)
     - 2024 (Present)
 
 # Disocrd Activity <img src="assets/images/Discord.gif" width="55px" height = "55px">
