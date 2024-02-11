@@ -12,7 +12,7 @@ I'm IT Student
 Now I study a Major in information technology at Chiang rai rajabhat university year 3 in Thailand my GitHub Uploads my work from Education and Learning Training or My Project.
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)
+<!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development
 * ⚡  i' m Work at CIT Company (Virtual Office Project for Student Form My University) - (Now Project Closed)
