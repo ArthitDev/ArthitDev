@@ -6,7 +6,18 @@
 
 Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
 =====================================================================================================================================
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArthitDev.ArthitDev)](https://github.com/ArthitDev) [![GitHub followers](https://img.shields.io/github/followers/ArthitDev.svg?style=social&label=Follow)](https://github.com/ArthitDev?tab=followers)
+
+<br>
+<p align="center">
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/ArthitDev?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArthitDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/ArthitDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ArthitDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
+ 
+ [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArthitDev.ArthitDev)](https://github.com/ArthitDev) 
+ <!--[![GitHub followers](https://img.shields.io/github/followers/ArthitDev.svg?style=social&label=Follow)](https://github.com/ArthitDev?tab=followers) -->
 
 
 I'm IT Student
@@ -57,13 +68,13 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 <!--# Disocrd Activity <img src="assets/images/Discord.gif" width="55px" height = "55px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008) -->
-# Contact Me<img src="assets/images/Man Technologist Light Skin Tone.png" width="50"> 
+<!--# Contact Me<img src="assets/images/Man Technologist Light Skin Tone.png" width="50"> 
 
 
 <p align="left"> <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank"><img src="assets/images/facebook.png" width="50" height="50" ></a> 
 <a href="https://www.github.com/ArthitDev" target="_blank"><img src="assets/images/github - 2.png" width="50" height="50" /></a> 
 <a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/linkedin.png" width="50" height="50" ></a>  
-<a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p>
+<a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p> -->
 
 # Badges <img src="assets/images/Bar Chart.png" width="40">
 
