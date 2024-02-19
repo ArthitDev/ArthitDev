@@ -47,7 +47,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 # Education <img src="assets/images/Scroll.png" width="30">
 <img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
-  - **Bachelor of Science in information technology**
+  - **Faculty of Digital Technology : Bachelor of Science in information technology**
     - 2021 (Start)
     - 2024 (Present)
 
