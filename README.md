@@ -1,5 +1,6 @@
 <!--<img  align = "center" src="https://github.com/ArthitDev/ArthitDev/blob/bbf574964d0519f2c89ab0517f24d815224c2684/assets/images/dino.gif" alt="Dino Jump">-->
 <!--![til](assets/images/dino.gif)-->
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3;Bachelor+of+Science;Faculty+of+Digital+Technology;Chiang+Rai+Rajabhat+University" alt="Typing SVG" /></a>
 </p>
