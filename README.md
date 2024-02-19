@@ -34,7 +34,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development and Programing
 * ⚡  i' m Work at CIT Company (Virtual Office Project for Student Form My University) - (Now Project Closed)
-# Skills <img src="assets/images/Rocket.png" width="40">
+# Skills & Tools<img src="assets/images/Rocket.png" width="40">
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
 
