@@ -5,9 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3;Bachelor+of+Science;Faculty+of+Digital+Technology;Chiang+Rai+Rajabhat+University" alt="Typing SVG" /></a>
 </p>
 
-Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
-=====================================================================================================================================
-
 <br>
 <p align="center">
   <a href="https://discord.com/users/416403249235755008" target="_blank"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -17,6 +14,11 @@ Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArthitDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/ArthitDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ArthitDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
+
+Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
+=====================================================================================================================================
+
+
  
  <!--[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArthitDev.ArthitDev)](https://github.com/ArthitDev) -->
  <!--[![GitHub followers](https://img.shields.io/github/followers/ArthitDev.svg?style=social&label=Follow)](https://github.com/ArthitDev?tab=followers) -->
