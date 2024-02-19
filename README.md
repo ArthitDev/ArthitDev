@@ -55,12 +55,12 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008) -->
 # Contact Me<img src="assets/images/Man Technologist Light Skin Tone.png" width="50"> 
-  
 
-<p align="left"> <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank"><img src="assets/images/facebook.gif" width="50" height="50" ></a> 
-<a href="https://www.github.com/ArthitDev" target="_blank"><img src="assets/images/GitHub.gif" width="50" height="50" /></a> 
-<a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/Linkedin.gif" width="50" height="50" ></a>  
-<a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/Twitter.gif" width="50" height="50" ></a></p>
+
+<p align="left"> <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank"><img src="assets/images/facebook.png" width="50" height="50" ></a> 
+<a href="https://www.github.com/ArthitDev" target="_blank"><img src="assets/images/github - 2.png" width="50" height="50" /></a> 
+<a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/linkedin.png" width="50" height="50" ></a>  
+<a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p>
 
 # Badges <img src="assets/images/Bar Chart.png" width="40">
 
