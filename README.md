@@ -3,7 +3,7 @@
 
 Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50"> My name is Arthit LungYa
 =====================================================================================================================================
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArthitDev.ArthitDev)](https://github.com/ArthitDev) [![GitHub followers](https://img.shields.io/github/followers/ArthitDev.svg?style=social&label=Follow)](https://github.com/ArthitDev?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArthitDev.ArthitDev)](https://github.com/ArthitDev) 
 
 
 I'm IT Student
