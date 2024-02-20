@@ -90,10 +90,8 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&layout=compact&langs_count=10&theme=radical&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true)
 
-
-<nobr><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
+<img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
 <p align="center"><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
 <picture>
