@@ -67,7 +67,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"/></a>
 </p>
 
-# Education <img src="assets/images/Scroll.png" width="30">
+# Education <img src="assets/images/Brain.png" width="35">
 <img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
   - **Faculty of Digital Technology : Bachelor of Science in information technology**
     - 2021 (Start)
@@ -84,14 +84,19 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 <a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/linkedin.png" width="50" height="50" ></a>  
 <a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p> -->
 
-# Badges <img src="assets/images/Bar Chart.png" width="40">
+# Language <img src="assets/images/Fire.png" width="35">
 
 <!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&layout=compact&langs_count=10&theme=radical&hide_border=true)
-<p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/></p>
-<p align=""><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 
+# Stats <img src="assets/images/T-Rex.png" width="35">
+
+<p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/></p>
+
+# Activity <img src="assets/images/Eyes.png" width="35">
+
+<p align=""><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
