@@ -11,7 +11,9 @@
   <a href="https://www.facebook.com/MR.Arthit.Profile" target="_blank"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.twitter.com/ArthitDev" target="_blank"><img alt="Twiter" title="Twiter" src="https://img.shields.io/badge/-twiter-3c414b?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ArthitDev?tab=repositories&sort=stargazers">
+ </p>
+ <p align="center">
+   <a href="https://github.com/ArthitDev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ArthitDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/ArthitDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ArthitDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
