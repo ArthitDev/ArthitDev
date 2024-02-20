@@ -47,6 +47,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![java](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,7 +64,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 ![microsoftsqlserver](https://img.shields.io/badge/Sqlserver-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
+
 
 
 
