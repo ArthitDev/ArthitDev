@@ -83,7 +83,9 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 # Badges <img src="assets/images/Bar Chart.png" width="40">
 
-<img align="center" height = "292px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&title_color=b2336b&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321&langs_count=8" />
+<!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&layout=compact&langs_count=10&theme=radical&hide_border=true)
 
 
 <nobr><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/>
