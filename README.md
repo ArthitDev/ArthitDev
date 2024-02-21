@@ -39,14 +39,14 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * 🧠  I'm learning Web Development and Programming
 * ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
 
-# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
+<!--# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
 <details>
 <summary><h4>Click Here !</h4></summary> 
 <br><br>
 <pre>
   <img alt="TH-Resume" title="TH-Resume" src="assets/File/Arthit-LungYa-Resume-TH.png" width="480" height="710" text-align="center"/> <img alt="EN-Resume" title="EN-Resume" src="assets/File/Arthit-LungYa-Resume-EN.png" width="480" height="710" text-align="center"/>
 </pre>
-</details>
+</details>-->
 
 # Skills & Tools<img src="assets/images/Rocket.png" width="40">
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
