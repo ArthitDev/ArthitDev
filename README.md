@@ -40,7 +40,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
 
 <details>
-<summary><h2>Click to See My Resume! </h2></summary>
+<summary><h2>Click to See My Resume! Paper Type</h2></summary>
 <br>
 # My Resume Here
 <br><br>
