@@ -48,6 +48,8 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 </pre>
 </details>-->
 
+
+
 # Skills & Tools<img src="assets/images/Rocket.png" width="40">
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
@@ -76,6 +78,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 ![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&labelColor=black&logo=dotenv&logoColor=white)
 ![express](https://img.shields.io/badge/expressJS-ECD53F?style=for-the-badge&labelColor=black&logo=express&express=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
 
 
 
@@ -113,6 +116,10 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
     - 2021 (Start)
     - 2024 (Present)
 
+# Quote <img src="assets/images/Nerd Face.png" width="35">
+<p align="center">
+<a><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Typing SVG" /></a>
+</p>
 <!--# Disocrd Activity <img src="assets/images/Discord.gif" width="55px" height = "55px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008) -->
@@ -134,7 +141,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 <p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/></p>
 
-# Activity <img src="assets/images/Eyes.png" width="35">
+# Activity <img src="assets/images/Eyes.png" width="35"> 
 
 <p align=""><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthitDev&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
 <picture>
