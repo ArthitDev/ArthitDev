@@ -74,6 +74,8 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 ![microsoftsqlserver](https://img.shields.io/badge/Sqlserver-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&labelColor=black&logo=dotenv&logoColor=white)
+![express](https://img.shields.io/badge/expressJS-ECD53F?style=for-the-badge&labelColor=black&logo=express&express=white)
 
 
 
