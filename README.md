@@ -116,10 +116,10 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
     - 2021 (Start)
     - 2024 (Present)
 
-# Quote <img src="assets/images/Nerd Face.png" width="35">
-<p align="center">
-<a><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Typing SVG" /></a>
-</p>
+<!--# Quote <img src="assets/images/Nerd Face.png" width="35">
+<!--<p align="center"><a><img src="https://quotes-github-readme.vercel.app/api?border=true&type=vertical&theme=tokyonight" alt="Typing SVG" /></a></p> -->
+
+
 <!--# Disocrd Activity <img src="assets/images/Discord.gif" width="55px" height = "55px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/416403249235755008)](https://discord.com/users/416403249235755008) -->
