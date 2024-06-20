@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/018dc6e6-9d7f-4809-bdef-a815fd0b705e.svg)](https://wakatime.com/@018dc6e6-9d7f-4809-bdef-a815fd0b705e)
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt+Code&&weight=1000&size=27&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+3+;I'm+Duck+Stack+Developer " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt+Code&&weight=1000&size=27&pause=1000&color=F7E420&center=true&random=false&width=435&lines=Welcome+to+My+Github+;I'm+IT+Student+Year+4+;I'm+Duck+Stack+Developer " alt="Typing SVG" /></a>
 </p>
 
 <br>
