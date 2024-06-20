@@ -38,7 +38,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development and Programming
 * ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
-* ⚡  Now I'm Intern Front-End Developer at Ocare Health Hub Co. Ltd 
+* ⚡  Now I'm Intern Front-End Developer at Ocare Health Hub Co. Ltd -  (Now Complete Intern)
 
 <!--# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
 <details>
