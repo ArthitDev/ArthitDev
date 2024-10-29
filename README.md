@@ -61,7 +61,7 @@ I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=White)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
