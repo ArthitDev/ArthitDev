@@ -39,7 +39,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * 🧠  I'm learning Web Development and Programming
 * ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
 * ⚡  I'm Internship Front-End Developer at Ocare Health Hub Co. Ltd -  (Now Complete Intern after 2 month)
-* 🔎  Now I'am currently looking for companies for my cooperative education program. 
+* 🔎  Now I'am currently looking for companies for my cooperative education program 4 month. 
 
 <!--# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
 <details>
