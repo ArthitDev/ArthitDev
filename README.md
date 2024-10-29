@@ -32,7 +32,7 @@ Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50">
 I'm IT Student
 --------------
 
-I am currently a third-year Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
+I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
