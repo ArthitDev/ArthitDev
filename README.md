@@ -38,7 +38,8 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
 * 🧠  I'm learning Web Development and Programming
 * ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
-* ⚡  Now I'm Intern Front-End Developer at Ocare Health Hub Co. Ltd -  (Now Complete Intern)
+* ⚡  I'm Internship Front-End Developer at Ocare Health Hub Co. Ltd -  (Now Complete Intern after 2 month)
+* 🔎  Now I'am currently looking for companies for my cooperative education program. 
 
 <!--# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
 <details>
@@ -57,31 +58,32 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=White)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-![csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![java](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
+![Next.JS](https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=White)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![chakraui](https://img.shields.io/badge/chakraui-4ac8c3?style=for-the-badge&logo=chakraui&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel-51555e?style=for-the-badge&logo=laravel&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=white)
-![Premierepro](https://img.shields.io/badge/Premierepro-9999FF?style=for-the-badge&labelColor=black&logo=adobepremierepro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&labelColor=black&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
 ![microsoftsqlserver](https://img.shields.io/badge/Sqlserver-CC2927?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/Noded.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&labelColor=black&logo=dotenv&logoColor=white)
-![express](https://img.shields.io/badge/expressJS-ECD53F?style=for-the-badge&labelColor=black&logo=express&express=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=white)
-
+<!--![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) -->
+<!--!! ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=white) -->
+<!-- ![express](https://img.shields.io/badge/expressJS-ECD53F?style=for-the-badge&labelColor=black&logo=express&express=white) -->
+<!--![csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white) -->
+<!--!![java](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white)-->
+<!--!! ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&labelColor=black&logo=dotenv&logoColor=white)-->
+<!--!! ![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=white)-->
+<!--!! ![Premierepro](https://img.shields.io/badge/Premierepro-9999FF?style=for-the-badge&labelColor=black&logo=adobepremierepro&logoColor=white)-->
+<!--!! ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&labelColor=black&logo=canva&logoColor=white)-->
+<!--!! ![laravel](https://img.shields.io/badge/laravel-51555e?style=for-the-badge&logo=laravel&logoColor=white)-->
+<!--!! ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)-->
 
 
 
