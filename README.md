@@ -29,7 +29,7 @@ Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50">
  <!--[![GitHub followers](https://img.shields.io/github/followers/ArthitDev.svg?style=social&label=Follow)](https://github.com/ArthitDev?tab=followers) -->
 
 
-I'm IT Student
+I'm Developer and AI Engineer !
 --------------
 
 I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
