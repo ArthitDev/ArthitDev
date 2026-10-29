@@ -32,14 +32,15 @@ Hi ! <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="50">
 I'm Developer and AI Engineer !
 --------------
 
-I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
+I'm an AI Engineer with around 2 years of professional experience. I graduated with a Bachelor of Science in Information Technology from Chiang Rai Rajabhat University, Thailand. My GitHub showcases my work from professional, personal, and academic projects.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
-* 🧠  I'm learning Web Development and Programming
-* ⚡  I work at CIT Company (Virtual Office Project for Students from my University) - (Now Project Closed)
-* ⚡  I'm Internship Front-End Developer at Ocare Health Hub Co. Ltd -  (Now Complete Intern after 2 month)
-* ⚡  I'm Internship Ai-Engineer at EP & IT SOLUTION Co. Ltd - (Now Complete Intern after 4 month)
+* I'm currently working as an AI Engineer (~2 years of experience)
+* 🧠  I'm always learning new things in AI and software development
+* ⚡  Previously worked at CIT Company (Virtual Office Project for Students from my University)
+* ⚡  Former Front-End Developer Intern at Ocare Health Hub Co. Ltd (2 months)
+* ⚡  Former AI Engineer Intern at EP & IT SOLUTION Co. Ltd (4 months)
 
 <!--# Resume Paper Type<img src="assets/images/Folded Hands Light Skin Tone.png" width="40">
 <details>
@@ -118,7 +119,7 @@ I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat
 <img src="assets/images/School.png" width="25"> **Chiang Rai Rajabhat University**:
   - **Faculty of Digital Technology : Bachelor of Science in information technology**
     - 2021 (Start)
-    - 2024 (Present)
+    - Graduated 🎓
 
 <!--# Quote <img src="assets/images/Nerd Face.png" width="35">
 <!--<p align="center"><a><img src="https://quotes-github-readme.vercel.app/api?border=true&type=vertical&theme=tokyonight" alt="Typing SVG" /></a></p> -->
@@ -140,10 +141,6 @@ I am currently a fourth-year Information Technology major at Chiang Rai Rajabhat
 <!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthitDev&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitDev&layout=compact&langs_count=10&theme=radical&hide_border=true)
-
-# Stats <img src="assets/images/T-Rex.png" width="35">
-
-<p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthitDev&show_icons=true&theme=radical&hide_border=true"/></p>
 
 # Activity <img src="assets/images/Eyes.png" width="35"> 
 
