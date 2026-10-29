@@ -36,7 +36,7 @@ I'm an AI Engineer with around 2 years of professional experience. I graduated w
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [rthit096@gmail.com](mailto:rthit096@gmail.com)
-* 🤖  I'm currently working as an AI Engineer (~2 years of experience)
+* I'm currently working as an AI Engineer (~2 years of experience)
 * 🧠  I'm always learning new things in AI and software development
 * ⚡  Previously worked at CIT Company (Virtual Office Project for Students from my University)
 * ⚡  Former Front-End Developer Intern at Ocare Health Hub Co. Ltd (2 months)
